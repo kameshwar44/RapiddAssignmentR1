@@ -9,3 +9,40 @@ Link - https://www.awesomescreenshot.com/image/41141081?key=09a77311ddbad41c5fc2
 ================Desktop======================================
 Link - https://www.awesomescreenshot.com/image/41141133?key=4ceade400e51e71c9eadfb4be3305df1
 
+# Responsive Dropdown Navbar
+
+This is a responsive dropdown navbar component built using React. It allows users to navigate through different sections of a website and includes dropdown menus for additional navigation options.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The Responsive Dropdown Navbar is a React component that provides a navigation menu with dropdown functionality. It is designed to be responsive, adapting to different screen sizes and providing an optimal user experience across devices.
+
+The navbar component includes a menu button that toggles the visibility of the navigation links on smaller screens. Each navigation link can also have a dropdown menu associated with it, which can be expanded to reveal additional navigation options.
+
+## Features
+
+- Responsive design that adapts to different screen sizes
+- Menu button for toggling the visibility of the navigation links on smaller screens
+- Dropdown menus for additional navigation options
+- Active link highlighting
+- Easy customization and integration with other React applications
+
+## Installation
+
+To install and run the Responsive Dropdown Navbar component, follow these steps:
+
+1. Clone the repository:
+
+```shell
+$ git clone https://github.com/your-username/responsive-dropdown-navbar.git
+
+
