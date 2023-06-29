@@ -1,4 +1,4 @@
-#ScreenShots
+# ScreenShots
 
 =======================Mobile==================
 LInk - https://www.awesomescreenshot.com/image/41140791?key=0e683318a601d5c79a443d4dbf92ce75
@@ -43,6 +43,6 @@ To install and run the Responsive Dropdown Navbar component, follow these steps:
 1. Clone the repository:
 
 ```shell
-$ git clone https://github.com/your-username/responsive-dropdown-navbar.git
+$ git clone 
 
 
