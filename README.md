@@ -49,9 +49,11 @@ To install and run the Responsive Dropdown Navbar component, follow these steps:
 
 1. Clone the repository:
 
+ ttps://github.com/kameshwar44/RapiddAssignmentR1.git
+
 ```shell
 $ https://github.com/kameshwar44/RapiddAssignmentR1.git
 
-https://github.com/kameshwar44/RapiddAssignmentR1.git
+
 
 
